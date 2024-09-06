@@ -1,0 +1,5 @@
+{ "dependencies": { "express": "^4.19.2", "socket.io": "^4.7.5" }, "name": "hatekin-keijiban", "module": "index.ts", "type": "module", "devDependencies": {
+  "@types/bun": "latest"
+}, "peerDependencies": {
+  "typescript": "^5.0.0"
+} }
